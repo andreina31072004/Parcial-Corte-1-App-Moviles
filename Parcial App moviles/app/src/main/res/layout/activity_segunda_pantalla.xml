@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Segunda_pantalla"
+    android:background="@color/black">
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="403dp"
+        android:text="John Salcedo\n\n1. c\n2. c\n3. c\n4. b\n5. c\n6. a\n7. c\n8. b"
+        android:textColor="#FFFF"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="45dp"></TextView>
+
+</LinearLayout>
