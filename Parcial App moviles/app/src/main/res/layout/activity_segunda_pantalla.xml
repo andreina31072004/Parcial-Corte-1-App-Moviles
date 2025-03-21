@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="170dp"
         android:layout_height="403dp"
-        android:text="John Salcedo\n\n1. c\n2. c\n3. c\n4. b\n5. c\n6. a\n7. c\n8. b"
+        android:text="Andreina Sampayo\n\n1. c\n2. c\n3. c\n4. b\n5. c\n6. a\n7. c\n8. b"
         android:textColor="#FFFF"
         android:textSize="20dp"
         tools:layout_editor_absoluteX="16dp"
